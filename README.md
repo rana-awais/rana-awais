@@ -1,2 +1,0 @@
-# rana-awais
-personal project
